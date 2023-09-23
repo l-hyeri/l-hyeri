@@ -10,16 +10,16 @@ Hello! I'm hyeri.
 
 ## Framework
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<br>
+</br>
 
-### Tools
+## Tools
 [![IntelliJIDEA Badge](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white&link=https://www.jetbrains.com//)](https://www.jetbrains.com//)
 [![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white&link=https://www.jetbrains.com/pycharm/)](https://www.jetbrains.com/pycharm/)
 [![NetBeans](https://img.shields.io/badge/NetBeans-blue?style=flat-square&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
 
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gr_ace)](https://solved.ac/profile/gr_ace)
-<br>
+</br>
 
 ## Contact
 <a href="mailto:personal.hyeri@gmail.com" target="_blank">
