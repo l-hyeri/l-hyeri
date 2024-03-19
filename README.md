@@ -21,8 +21,6 @@ Hello! I'm hyeri.
 [![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white&link=https://www.jetbrains.com/pycharm/)](https://www.jetbrains.com/pycharm/)
 [![NetBeans](https://img.shields.io/badge/NetBeans-blue?style=flat-square&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
 
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gr_ace)](https://solved.ac/profile/gr_ace)
 </br>
 
 ## Contact
